@@ -96,7 +96,7 @@ I focus on improving deployment speed, system reliability, and operational effic
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Annuru-Kulasekhar/Annuru-Kulasekhar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Annuru-Kulasekhar/Annuru-Kulasekhar/blob/output/snake.svg)
 
 ---
 
