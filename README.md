@@ -80,10 +80,11 @@ I focus on improving **deployment speed, system reliability, and operational eff
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![Kulasekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annuru-Kulasekhar&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annuru-Kulasekhar&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🎯 Goals (2026)
