@@ -30,8 +30,7 @@ I focus on improving deployment speed, system reliability, and operational effic
 ### ☁️ Cloud & Containers
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
-  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white"/>
-</p>
+  
 
 ### ⚙️ DevOps & CI/CD
 <p>
