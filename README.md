@@ -84,7 +84,6 @@ I focus on improving deployment speed, system reliability, and operational effic
 
 ---
 
-
 ## 🎯 Goals (2026)
 
 - 🔹 Advanced Kubernetes  
@@ -92,6 +91,12 @@ I focus on improving deployment speed, system reliability, and operational effic
 - 🔹 AiOps  
 - 🔹 Production-grade DevOps projects  
 - 🔹 Open-source contributions  
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Annuru-Kulasekhar/Annuru-Kulasekhar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
