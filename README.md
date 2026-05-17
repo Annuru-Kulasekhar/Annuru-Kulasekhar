@@ -13,12 +13,19 @@ DevOps Engineer with 3.5+ years of experience in designing, automating, and mana
 I focus on improving deployment speed, system reliability, and operational efficiency through automation and modern DevOps practices.
 
 ☁️ Strong hands-on experience with AWS (EKS, EC2, VPC, IAM, ALB, Route53)
+
 ⚙️ Built and optimized CI/CD pipelines using Jenkins & Git (40–45% faster deployments)
+
 🐳 Containerized applications using Docker and deployed on Kubernetes (EKS)
+
 🏗️ Infrastructure automation using Terraform (reduced setup time by 50%)
+
 🔄 Automated configurations using Ansible (reduced manual effort by 40%)
+
 🔐 Implemented DevSecOps practices (SAST, DAST, SonarQube, image scanning)
+
 📉 Reduced production issues using Shift-Left approach (20–25%)
+
 📊 Monitoring using Prometheus & Grafana
 
 ---
