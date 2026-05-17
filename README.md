@@ -25,7 +25,6 @@ I focus on improving deployment speed, system reliability, and operational effic
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
 
 ### ☁️ Cloud & Containers
 <p>
