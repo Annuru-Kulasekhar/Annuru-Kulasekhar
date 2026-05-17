@@ -8,31 +8,34 @@
 
 ## 🔥 About Me
 
-DevOps Engineer with **3.5+ years of experience** in designing, automating, and managing scalable, secure, and cost-effective cloud infrastructure.
+DevOps Engineer with 3.5+ years of experience in designing, automating, and managing scalable, secure, and cost-effective cloud infrastructure.
 
-I focus on improving **deployment speed, system reliability, and operational efficiency** through automation and modern DevOps practices.
+I focus on improving deployment speed, system reliability, and operational efficiency through automation and modern DevOps practices.
 
-- ☁️ Strong hands-on experience with AWS (EKS, EC2, VPC, IAM, ALB, Route53)  
-- ⚙️ Built and optimized CI/CD pipelines using Jenkins & Git (40–45% faster deployments)  
-- 🐳 Containerized applications using Docker and deployed on Kubernetes (EKS)  
-- 🏗️ Infrastructure automation using Terraform (reduced setup time by 50%)  
-- 🔄 Automated configurations using Ansible (reduced manual effort by 40%)  
-- 🔐 Implemented DevSecOps practices (SAST, DAST, SonarQube, image scanning)  
-- 📉 Reduced production issues using Shift-Left approach (20–25%)  
-- 📊 Monitoring using Prometheus & Grafana  
+☁️ Strong hands-on experience with AWS (EKS, EC2, VPC, IAM, ALB, Route53)
+⚙️ Built and optimized CI/CD pipelines using Jenkins & Git (40–45% faster deployments)
+🐳 Containerized applications using Docker and deployed on Kubernetes (EKS)
+🏗️ Infrastructure automation using Terraform (reduced setup time by 50%)
+🔄 Automated configurations using Ansible (reduced manual effort by 40%)
+🔐 Implemented DevSecOps practices (SAST, DAST, SonarQube, image scanning)
+📉 Reduced production issues using Shift-Left approach (20–25%)
+📊 Monitoring using Prometheus & Grafana
 
 ---
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
 ### ☁️ Cloud & Containers
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,helm" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white"/>
 </p>
 
 ### ⚙️ DevOps & CI/CD
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,git" />
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github" />
 </p>
 
 ### 🏗️ Infrastructure as Code
@@ -40,11 +43,16 @@ I focus on improving **deployment speed, system reliability, and operational eff
   <img src="https://skillicons.dev/icons?i=terraform,ansible" />
 </p>
 
-### 📊 Monitoring & Tools
+### 📊 Monitoring & Logging
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,linux" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
 
+### 🌐 Web & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx,mysql,mongodb" />
+</p>
 ---
 
 ## 🔧 What I Do
@@ -78,14 +86,6 @@ I focus on improving **deployment speed, system reliability, and operational eff
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Kulasekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annuru-Kulasekhar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annuru-Kulasekhar&layout=compact&theme=tokyonight)
----
 
 ## 🎯 Goals (2026)
 
