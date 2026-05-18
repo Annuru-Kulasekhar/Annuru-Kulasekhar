@@ -1,32 +1,56 @@
-# 👋 Hi, I'm Kulasekhar Annuru
+<!-- 🔥 Banner -->
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner" />
+</p>
 
-🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | Docker | Ansible | CI/CD | EKS  
-💼 Netcube Technology Pvt Ltd | 3.5+ Years Experience  
-🌍 India  
+<h1 align="center">👋 Hi, I'm Kulasekhar Annuru</h1>
+
+<p align="center">
+🚀 DevOps Engineer | Cloud & SRE Specialist  
+</p>
+
+<p align="center">
+AWS • Kubernetes • Terraform • Jenkins • Docker • Ansible • CI/CD • EKS
+</p>
+
+<p align="center">
+💼 Netcube Technology Pvt Ltd &nbsp;|&nbsp; ⏳ 3.5+ Years Experience &nbsp;|&nbsp; 🌍 India
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kulasekharannuru">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:annurukulasekhar060@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" />
+  </a>
+</p>
+
+---
 
 ---
 
 ## 🔥 About Me
 
-DevOps Engineer with 3.5+ years of experience in designing, automating, and managing scalable, secure, and cost-effective cloud infrastructure.
+DevOps Engineer with 3.5 years of experience in building, automating, and managing scalable, secure, and highly available cloud infrastructure on AWS.
 
-I focus on improving deployment speed, system reliability, and operational efficiency through automation and modern DevOps practices.
+I specialize in designing end-to-end DevOps pipelines, enabling faster deployments, improving system reliability, and reducing operational overhead.
 
-☁️ Strong hands-on experience with AWS (EKS, EC2, VPC, IAM, ALB, Route53)
+💡 Key Achievements:
 
-⚙️ Built and optimized CI/CD pipelines using Jenkins & Git (40–45% faster deployments)
+🚀 Reduced deployment time by 40% using Jenkins CI/CD pipelines
 
-🐳 Containerized applications using Docker and deployed on Kubernetes (EKS)
+⚙️ Automated infrastructure & configuration → reduced manual effort by 80%
 
-🏗️ Infrastructure automation using Terraform (reduced setup time by 50%)
+☁️ Provisioned AWS infrastructure using Terraform (multi-environment setup)
 
-🔄 Automated configurations using Ansible (reduced manual effort by 40%)
+☸️ Managed 20+ microservices on Kubernetes (EKS) with zero-downtime deployments
 
-🔐 Implemented DevSecOps practices (SAST, DAST, SonarQube, image scanning)
+📊 Improved monitoring & incident response speed by 35%
 
-📉 Reduced production issues using Shift-Left approach (20–25%)
+🔐 Reduced vulnerabilities by 30% using DevSecOps practices
 
-📊 Monitoring using Prometheus & Grafana
+📈 Maintained 99.9% uptime in production systems
 
 ---
 
@@ -115,3 +139,5 @@ https://www.linkedin.com/in/kulasekharannuru
 ---
 
 ⭐ *"Automating infrastructure, improving reliability, and delivering scalable systems."*
+
+
