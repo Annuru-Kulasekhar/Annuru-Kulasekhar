@@ -1,86 +1,128 @@
-<!-- 🔥 Banner -->
+<!-- ========================================= -->
+<!--                BANNER                     -->
+<!-- ========================================= -->
+
 <p align="center">
-  <img src="banner.png" alt="GitHub Banner" />
+  <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Kulasekhar Annuru</h1>
 
+<h3 align="center">
+DevOps Engineer | AWS Cloud | Kubernetes | Terraform | CI/CD
+</h3>
+
 <p align="center">
-🚀 DevOps Engineer | Cloud & SRE Specialist  
+Passionate about automating infrastructure, improving reliability, and building scalable cloud platforms.
 </p>
 
 <p align="center">
-AWS • Kubernetes • Terraform • Jenkins • Docker • Ansible • CI/CD • EKS
-</p>
 
-<p align="center">
-💼 Netcube Technology Pvt Ltd &nbsp;|&nbsp; ⏳ 3.5 Years Experience &nbsp;|&nbsp; 🌍 India
-</p>
+<a href="https://www.linkedin.com/in/kulasekharannuru">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kulasekharannuru">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:annurukulasekhar060@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail" />
-  </a>
-</p>
+<a href="mailto:annurukulasekhar060@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
+<a href="https://github.com/Annuru-Kulasekhar">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 ---
 
 
 ## 🔥 About Me
 
-DevOps Engineer with 3.5 years of experience in building, automating, and managing scalable, secure, and highly available cloud infrastructure on AWS.
+💻 DevOps Engineer with 3.5+ years of experience in designing, automating, and managing scalable cloud infrastructure on AWS.
 
-I specialize in designing end-to-end DevOps pipelines, enabling faster deployments, improving system reliability, and reducing operational overhead.
+⚡ Specialized in:
 
-💡 Key Achievements:
+- CI/CD Automation
 
-🚀 Reduced deployment time by 40% using Jenkins CI/CD pipelines
+- Kubernetes & Docker
 
-⚙️ Automated infrastructure & configuration → reduced manual effort by 80%
+- Terraform Infrastructure
 
-☁️ Provisioned AWS infrastructure using Terraform (multi-environment setup)
+- AWS Cloud Engineering
 
-☸️ Managed 20+ microservices on Kubernetes (EKS) with zero-downtime deployments
+- Infrastructure Automation
 
-📊 Improved monitoring & incident response speed by 35%
+- Monitoring & Observability
 
-🔐 Reduced vulnerabilities by 30% using DevSecOps practices
+- DevSecOps Practices
 
-📈 Maintained 99.9% uptime in production systems
+📍 Bangalore, India
+
+---
+
+# 🏆 Professional Highlights
+
+✅ Reduced deployment time by **40%** using Jenkins CI/CD pipelines
+
+✅ Automated infrastructure provisioning and reduced manual effort by **80%**
+
+✅ Managed **20+ microservices** on Kubernetes (Amazon EKS)
+
+✅ Maintained **99.9% production uptime**
+
+✅ Improved incident response speed by **35%**
+
+✅ Reduced vulnerabilities using DevSecOps practices with SonarQube, SAST & DAST
+
+✅ Provisioned AWS infrastructure using reusable Terraform modules
 
 ---
 
 ## 🧰 Tech Stack
 
 
-### ☁️ Cloud & Containers
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
-  
+<p align="left">
 
-### ⚙️ DevOps & CI/CD
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,git,github" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ANSIBLE-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SONARQUBE-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/APACHE_TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
-### 🏗️ Infrastructure as Code
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
-</p>
-
-### 📊 Monitoring & Logging
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,linux" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-</p>
-
-### 🌐 Web & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nginx,mysql,mongodb" />
-</p>
 ---
 
 ## 🔧 What I Do
