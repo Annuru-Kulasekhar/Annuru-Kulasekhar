@@ -153,21 +153,6 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Annuru-Kulasekhar&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annuru-Kulasekhar&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Annuru-Kulasekhar&theme=tokyonight"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
