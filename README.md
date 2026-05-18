@@ -1,3 +1,4 @@
+```md
 <!-- ========================================= -->
 <!--                BANNER                     -->
 <!-- ========================================= -->
@@ -9,11 +10,11 @@
 <h1 align="center">👋 Hi, I'm Kulasekhar Annuru</h1>
 
 <h3 align="center">
-DevOps Engineer | AWS Cloud | Kubernetes | Terraform | CI/CD
+DevOps Engineer | AWS Cloud | Kubernetes | Terraform | CI/CD | 3.5+ YOE
 </h3>
 
 <p align="center">
-Passionate about automating infrastructure, improving reliability, and building scalable cloud platforms.
+Passionate about building scalable cloud infrastructure, automating deployments, and improving system reliability.
 </p>
 
 <p align="center">
@@ -31,28 +32,21 @@ Passionate about automating infrastructure, improving reliability, and building 
 </a>
 
 </p>
+
 ---
 
+# 🚀 About Me
 
-## 🔥 About Me
+💻 DevOps Engineer with 3.5+ years of experience in designing, automating, and managing cloud-native infrastructure on AWS.
 
-💻 DevOps Engineer with 3.5+ years of experience in designing, automating, and managing scalable cloud infrastructure on AWS.
-
-⚡ Specialized in:
-
-- CI/CD Automation
-
+⚡ Core Expertise:
+- CI/CD Pipeline Automation
 - Kubernetes & Docker
-
-- Terraform Infrastructure
-
+- Terraform & Infrastructure as Code
 - AWS Cloud Engineering
-
-- Infrastructure Automation
-
+- Linux Administration
 - Monitoring & Observability
-
-- DevSecOps Practices
+- DevSecOps & Security Automation
 
 📍 Bangalore, India
 
@@ -60,24 +54,23 @@ Passionate about automating infrastructure, improving reliability, and building 
 
 # 🏆 Professional Highlights
 
-✅ Reduced deployment time by **40%** using Jenkins CI/CD pipelines
+✅ Reduced deployment time by **40%** using Jenkins CI/CD automation
 
-✅ Automated infrastructure provisioning and reduced manual effort by **80%**
+✅ Automated infrastructure provisioning, reducing manual effort by **80%**
 
-✅ Managed **20+ microservices** on Kubernetes (Amazon EKS)
+✅ Managed and deployed **20+ microservices** on Amazon EKS
 
-✅ Maintained **99.9% production uptime**
+✅ Maintained **99.9% uptime** across production environments
 
-✅ Improved incident response speed by **35%**
+✅ Improved monitoring and incident response speed by **35%**
 
-✅ Reduced vulnerabilities using DevSecOps practices with SonarQube, SAST & DAST
+✅ Integrated SonarQube, SAST & DAST into CI/CD pipelines
 
-✅ Provisioned AWS infrastructure using reusable Terraform modules
+✅ Built reusable Terraform modules for multi-environment deployments
 
 ---
 
-## 🧰 Tech Stack
-
+# 🛠️ Tech Stack
 
 <p align="left">
 
@@ -91,6 +84,7 @@ Passionate about automating infrastructure, improving reliability, and building 
 
 <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ANSIBLE-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
 
@@ -104,12 +98,11 @@ Passionate about automating infrastructure, improving reliability, and building 
 
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -121,13 +114,13 @@ Passionate about automating infrastructure, improving reliability, and building 
 
 ---
 
-## 🔧 What I Do
+# 🔧 What I Do
 
-🚀 Build scalable and secure AWS cloud infrastructure
+🚀 Design scalable and secure AWS cloud infrastructure
 
-⚙️ Design production-grade CI/CD pipelines using Jenkins & GitHub Actions
+⚙️ Build production-grade CI/CD pipelines using Jenkins & GitHub Actions
 
-☸️ Deploy and manage containerized applications on Kubernetes (EKS)
+☸️ Deploy and manage containerized workloads on Kubernetes (Amazon EKS)
 
 🐳 Containerize applications using Docker
 
@@ -135,69 +128,70 @@ Passionate about automating infrastructure, improving reliability, and building 
 
 📊 Implement monitoring, alerting, and observability using Prometheus & Grafana
 
-🔐 Implement DevSecOps practices and secure cloud environments
+🔐 Enable DevSecOps practices for secure deployments
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 ## 🚀 Amgen – DevOps & Cloud Infrastructure
 
-- Built CI/CD pipelines using Jenkins & Git
-- Deployed microservices architecture on Kubernetes
-- Implemented Helm-based deployments
-- Integrated SonarQube, SAST & DAST
-- Implemented Prometheus & Grafana monitoring
+- Built automated CI/CD pipelines using Jenkins & Git
+- Migrated applications to Kubernetes-based microservices architecture
+- Managed Helm-based deployments on Amazon EKS
+- Integrated SonarQube, SAST & DAST into deployment workflows
+- Implemented centralized monitoring with Prometheus & Grafana
 
 ---
 
 ## ⚙️ BMC Software – Infrastructure Automation
 
-- Developed reusable Terraform modules
-- Automated server configuration using Ansible
-- Managed AWS Infrastructure (EC2, IAM, RDS, S3, VPC)
-- Built centralized CI/CD pipelines
+- Developed reusable Terraform modules for AWS infrastructure
+- Automated server configuration using Ansible & Shell Scripting
+- Managed AWS services including EC2, IAM, RDS, S3 & VPC
+- Built centralized CI/CD pipelines for deployment consistency
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Annuru-Kulasekhar&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Annuru-Kulasekhar&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annuru-Kulasekhar&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annuru-Kulasekhar&theme=tokyonight"/>
 </p>
 
+---
+
+# 🐍 Contribution Snake
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annuru-Kulasekhar&layout=compact&theme=tokyonight"/>
+<img src="https://github.com/Annuru-Kulasekhar/Annuru-Kulasekhar/blob/output/snake.svg"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Annuru-Kulasekhar/Annuru-Kulasekhar/blob/output/snake.svg)
-
----
-
-## 🎯 Goals (2026)
+# 🎯 Goals for 2026
 
 🚀 Advanced Kubernetes & Platform Engineering
 
 🚀 GitOps with ArgoCD
 
-🚀 Production-grade DevOps Projects
-
 🚀 AI + DevOps (AIOps)
 
-🚀 Open Source Contributions 
+🚀 Production-grade DevOps Projects
+
+🚀 Open Source Contributions
 
 ---
 
-
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 <p align="center">
 
@@ -216,5 +210,4 @@ Passionate about automating infrastructure, improving reliability, and building 
 <p align="center">
 ⭐ <b>"Automating infrastructure, improving reliability, and delivering scalable systems."</b>
 </p>
-
-
+```
