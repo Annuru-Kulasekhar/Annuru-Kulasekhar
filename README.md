@@ -123,42 +123,56 @@ Passionate about automating infrastructure, improving reliability, and building 
 
 ## 🔧 What I Do
 
-- 🛠️ Design and manage scalable AWS cloud infrastructure  
-- 🚀 Build CI/CD pipelines for faster and reliable deployments  
-- 🐳 Containerize and deploy apps using Docker & Kubernetes  
-- ⚙️ Automate infrastructure using Terraform & Ansible  
-- 📦 Deploy microservices-based applications  
-- 🔐 Implement secure IAM and networking  
-- 📊 Monitor systems for high availability  
+🚀 Build scalable and secure AWS cloud infrastructure
+
+⚙️ Design production-grade CI/CD pipelines using Jenkins & GitHub Actions
+
+☸️ Deploy and manage containerized applications on Kubernetes (EKS)
+
+🐳 Containerize applications using Docker
+
+🏗️ Automate infrastructure provisioning using Terraform & Ansible
+
+📊 Implement monitoring, alerting, and observability using Prometheus & Grafana
+
+🔐 Implement DevSecOps practices and secure cloud environments
 
 ---
 
 ## 📂 Featured Projects
 
-### 🚀 Roboshop End-to-End Deployment
-- Provisioned AWS infrastructure using Terraform  
-- Automated configuration using Ansible  
-- Deployed microservices on Kubernetes (EKS)  
-- Integrated CI/CD pipelines using Jenkins  
+## 🚀 Amgen – DevOps & Cloud Infrastructure
 
-### ☸️ Kubernetes Hands-on
-- k8s-init, k8s-ingress, k8s-rbac, k8s-network, k8s-ha  
-- Covers real-world Kubernetes scenarios  
-
-### ⚙️ Terraform Modules
-- Reusable modules for VPC, EC2, and EKS  
-- Multi-environment setup  
-- Reduced provisioning time  
+- Built CI/CD pipelines using Jenkins & Git
+- Deployed microservices architecture on Kubernetes
+- Implemented Helm-based deployments
+- Integrated SonarQube, SAST & DAST
+- Implemented Prometheus & Grafana monitoring
 
 ---
 
-## 🎯 Goals (2026)
+## ⚙️ BMC Software – Infrastructure Automation
 
-- 🔹 Advanced Kubernetes  
-- 🔹 GitOps (ArgoCD)  
-- 🔹 AiOps  
-- 🔹 Production-grade DevOps projects  
-- 🔹 Open-source contributions  
+- Developed reusable Terraform modules
+- Automated server configuration using Ansible
+- Managed AWS Infrastructure (EC2, IAM, RDS, S3, VPC)
+- Built centralized CI/CD pipelines
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Annuru-Kulasekhar&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Annuru-Kulasekhar&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annuru-Kulasekhar&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -168,13 +182,39 @@ Passionate about automating infrastructure, improving reliability, and building 
 
 ---
 
-## 🔗 Connect With Me
+## 🎯 Goals (2026)
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/kulasekharannuru  
+🚀 Advanced Kubernetes & Platform Engineering
+
+🚀 GitOps with ArgoCD
+
+🚀 Production-grade DevOps Projects
+
+🚀 AI + DevOps (AIOps)
+
+🚀 Open Source Contributions 
 
 ---
 
-⭐ *"Automating infrastructure, improving reliability, and delivering scalable systems."*
+
+## 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kulasekharannuru">
+<img src="https://img.shields.io/badge/LinkedIn-Kulasekhar%20Annuru-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:annurukulasekhar060@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ <b>"Automating infrastructure, improving reliability, and delivering scalable systems."</b>
+</p>
 
 
