@@ -14,7 +14,7 @@ AWS • Kubernetes • Terraform • Jenkins • Docker • Ansible • CI/CD �
 </p>
 
 <p align="center">
-💼 Netcube Technology Pvt Ltd &nbsp;|&nbsp; ⏳ 3.5+ Years Experience &nbsp;|&nbsp; 🌍 India
+💼 Netcube Technology Pvt Ltd &nbsp;|&nbsp; ⏳ 3.5 Years Experience &nbsp;|&nbsp; 🌍 India
 </p>
 
 <p align="center">
@@ -28,7 +28,6 @@ AWS • Kubernetes • Terraform • Jenkins • Docker • Ansible • CI/CD �
 
 ---
 
----
 
 ## 🔥 About Me
 
