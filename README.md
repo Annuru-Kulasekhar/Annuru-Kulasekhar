@@ -91,7 +91,6 @@ Passionate about automating infrastructure, improving reliability, and building 
 
 <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ANSIBLE-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
 
@@ -105,7 +104,6 @@ Passionate about automating infrastructure, improving reliability, and building 
 
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/APACHE_TOMCAT-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -118,8 +116,6 @@ Passionate about automating infrastructure, improving reliability, and building 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
 
