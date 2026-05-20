@@ -10,11 +10,11 @@
 <h1 align="center">👋 Hi, I'm Kulasekhar Annuru</h1>
 
 <h3 align="center">
-DevOps Engineer | AWS Cloud | Kubernetes | Terraform | CI/CD | 3.5+ YOE
+DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | Docker | CI/CD | DevSecOps
 </h3>
 
 <p align="center">
-Passionate about building scalable cloud infrastructure, automating deployments, and improving system reliability.
+Experienced DevOps Engineer with 3.5+ years of expertise in AWS cloud infrastructure, Kubernetes, CI/CD automation, and production-grade deployment environments.
 </p>
 
 <p align="center">
@@ -37,13 +37,17 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 # 🚀 About Me
 
-💻 DevOps Engineer with 3.5+ years of experience in designing, automating, and managing cloud-native infrastructure on AWS.
+💻 DevOps Engineer with hands-on experience in designing, automating, and managing scalable cloud-native infrastructure on AWS.
 
-⚡ Core Expertise:
+☸️ Specialized in Kubernetes (Amazon EKS), CI/CD automation, Infrastructure as Code (Terraform), Docker containerization, and DevSecOps practices.
+
+⚡ Strong experience in:
 - CI/CD Pipeline Automation
-- Kubernetes & Docker
+- Kubernetes & Helm
+- Docker & Containerization
 - Terraform & Infrastructure as Code
 - AWS Cloud Engineering
+- Jenkins Pipeline Automation
 - Linux Administration
 - Monitoring & Observability
 - DevSecOps & Security Automation
@@ -56,17 +60,19 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ✅ Reduced deployment time by **40%** using Jenkins CI/CD automation
 
-✅ Automated infrastructure provisioning, reducing manual effort by **80%**
+✅ Automated infrastructure provisioning and configuration management
 
-✅ Managed and deployed **20+ microservices** on Amazon EKS
+✅ Managed **20+ microservices** on Amazon EKS
 
 ✅ Maintained **99.9% uptime** across production environments
 
-✅ Improved monitoring and incident response speed by **35%**
+✅ Improved incident response time by **35%** using Prometheus & Grafana
 
-✅ Integrated SonarQube, SAST & DAST into CI/CD pipelines
+✅ Implemented rolling deployments and automated rollback strategies
 
-✅ Built reusable Terraform modules for multi-environment deployments
+✅ Integrated SonarQube, SAST, DAST, and image scanning into CI/CD pipelines
+
+✅ Built reusable Terraform modules for AWS multi-environment deployments
 
 ---
 
@@ -84,25 +90,17 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/ANSIBLE-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ANSIBLE-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/HELM-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SONARQUBE-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -116,19 +114,21 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 # 🔧 What I Do
 
-🚀 Design scalable and secure AWS cloud infrastructure
+🚀 Build scalable and secure AWS cloud infrastructure
 
-⚙️ Build production-grade CI/CD pipelines using Jenkins & GitHub Actions
+⚙️ Develop production-grade CI/CD pipelines using Jenkins & Git
 
-☸️ Deploy and manage containerized workloads on Kubernetes (Amazon EKS)
+☸️ Deploy and manage Kubernetes workloads on Amazon EKS
 
 🐳 Containerize applications using Docker
 
 🏗️ Automate infrastructure provisioning using Terraform & Ansible
 
-📊 Implement monitoring, alerting, and observability using Prometheus & Grafana
+📊 Implement monitoring and alerting using Prometheus & Grafana
 
-🔐 Enable DevSecOps practices for secure deployments
+🔐 Enable DevSecOps practices for secure application delivery
+
+🛠️ Troubleshoot production issues and optimize deployment reliability
 
 ---
 
@@ -136,23 +136,48 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ## 🚀 Amgen – DevOps & Cloud Infrastructure
 
-- Built automated CI/CD pipelines using Jenkins & Git
-- Migrated applications to Kubernetes-based microservices architecture
+### AWS | Kubernetes | Jenkins | Terraform | DevSecOps
+
+- Implemented end-to-end CI/CD pipelines for automated deployments
+- Migrated monolithic applications to Kubernetes-based microservices architecture
 - Managed Helm-based deployments on Amazon EKS
-- Integrated SonarQube, SAST & DAST into deployment workflows
-- Implemented centralized monitoring with Prometheus & Grafana
+- Integrated SonarQube, SAST, DAST, and container image scanning
+- Implemented centralized monitoring and alerting using Prometheus & Grafana
+- Automated AWS infrastructure provisioning using Terraform modules
 
 ---
 
 ## ⚙️ BMC Software – Infrastructure Automation
 
-- Developed reusable Terraform modules for AWS infrastructure
-- Automated server configuration using Ansible & Shell Scripting
-- Managed AWS services including EC2, IAM, RDS, S3 & VPC
-- Built centralized CI/CD pipelines for deployment consistency
+### Terraform | AWS | Ansible | CI/CD
+
+- Developed reusable Terraform modules for AWS infrastructure provisioning
+- Automated server configuration using Ansible and Shell scripting
+- Managed AWS resources including EC2, IAM, VPC, RDS, and S3
+- Built centralized Jenkins CI/CD pipelines for deployment automation
+- Performed Linux server monitoring and troubleshooting activities
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annuru-Kulasekhar&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annuru-Kulasekhar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Annuru-Kulasekhar&theme=tokyonight"/>
+</p>
+
+---
 
 # 🐍 Contribution Snake
 
@@ -168,11 +193,13 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 🚀 GitOps with ArgoCD
 
+🚀 Production-grade DevSecOps
+
 🚀 AI + DevOps (AIOps)
 
-🚀 Production-grade DevOps Projects
-
 🚀 Open Source Contributions
+
+🚀 Multi-Cloud Infrastructure Automation
 
 ---
 
@@ -193,6 +220,5 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 ---
 
 <p align="center">
-⭐ <b>"Automating infrastructure, improving reliability, and delivering scalable systems."</b>
+⭐ <b>"Automating infrastructure, improving reliability, and delivering scalable cloud-native systems."</b>
 </p>
-```
