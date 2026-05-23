@@ -134,29 +134,19 @@ Experienced DevOps Engineer with 3.5+ years of expertise in AWS cloud infrastruc
 
 # 📂 Featured Projects
 
-## 🚀 Amgen – DevOps & Cloud Infrastructure
+🚀 Kubernetes & Cloud Platform Engineering
+• Managed and deployed microservices on Amazon EKS
+• Implemented Helm-based Kubernetes deployments
+• Configured rolling updates and rollback strategies
+• Integrated Prometheus & Grafana monitoring stack
+• Automated infrastructure provisioning using Terraform
 
-### AWS | Kubernetes | Jenkins | Terraform | DevSecOps
-
-- Implemented end-to-end CI/CD pipelines for automated deployments
-- Migrated monolithic applications to Kubernetes-based microservices architecture
-- Managed Helm-based deployments on Amazon EKS
-- Integrated SonarQube, SAST, DAST, and container image scanning
-- Implemented centralized monitoring and alerting using Prometheus & Grafana
-- Automated AWS infrastructure provisioning using Terraform modules
-
----
-
-## ⚙️ BMC Software – Infrastructure Automation
-
-### Terraform | AWS | Ansible | CI/CD
-
-- Developed reusable Terraform modules for AWS infrastructure provisioning
-- Automated server configuration using Ansible and Shell scripting
-- Managed AWS resources including EC2, IAM, VPC, RDS, and S3
-- Built centralized Jenkins CI/CD pipelines for deployment automation
-- Performed Linux server monitoring and troubleshooting activities
-
+⚙️ CI/CD & DevSecOps Automation
+• Built reusable Jenkins CI/CD pipelines
+• Integrated SonarQube, SAST, DAST, and image scanning
+• Automated deployments using Ansible and Shell scripting
+• Implemented Infrastructure as Code for multi-environment deployments
+• Improved deployment reliability and operational efficiency
 ---
 
 
