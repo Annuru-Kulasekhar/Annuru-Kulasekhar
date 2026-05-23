@@ -159,17 +159,6 @@ Experienced DevOps Engineer with 3.5+ years of expertise in AWS cloud infrastruc
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annuru-Kulasekhar&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annuru-Kulasekhar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
