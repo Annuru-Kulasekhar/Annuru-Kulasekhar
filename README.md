@@ -134,18 +134,29 @@ Experienced DevOps Engineer with 3.5+ years of expertise in AWS cloud infrastruc
 # 📂 Featured Projects
 
 🚀 Kubernetes & Cloud Platform Engineering
+
 • Managed and deployed microservices on Amazon EKS
+
 • Implemented Helm-based Kubernetes deployments
+
 • Configured rolling updates and rollback strategies
+
 • Integrated Prometheus & Grafana monitoring stack
+
 • Automated infrastructure provisioning using Terraform
 
 ⚙️ CI/CD & DevSecOps Automation
+
 • Built reusable Jenkins CI/CD pipelines
+
 • Integrated SonarQube, SAST, DAST, and image scanning
+
 • Automated deployments using Ansible and Shell scripting
+
 • Implemented Infrastructure as Code for multi-environment deployments
+
 • Improved deployment reliability and operational efficiency
+
 ---
 
 
