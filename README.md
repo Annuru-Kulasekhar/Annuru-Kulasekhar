@@ -9,11 +9,15 @@
 <h1 align="center">👋 Hi, I'm Kulasekhar Annuru</h1>
 
 <h3 align="center">
-DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | Docker | CI/CD | DevSecOps
+DevOps Engineer | AWS | Kubernetes | Terraform | Jenkins | Docker | EKS | CI/CD | DevSecOps | Platform Engineering
 </h3>
 
 <p align="center">
-Experienced DevOps Engineer with 3.5+ years of expertise in AWS cloud infrastructure, Kubernetes, CI/CD automation, and production-grade deployment environments.
+Experienced DevOps Engineer with 3.5+ years of expertise in AWS cloud infrastructure, Kubernetes orchestration, CI/CD automation, Infrastructure as Code (IaC), and production-grade deployment environments.
+
+Skilled in AWS, Amazon EKS, Terraform, Jenkins, Docker, Helm, Ansible, Linux Administration, and DevSecOps practices with hands-on experience in building scalable, secure, and automated cloud-native platforms.
+
+Passionate about Kubernetes, Platform Engineering, Cloud Automation, Infrastructure Reliability, and solving real-world production challenges.
 </p>
 
 <p align="center">
